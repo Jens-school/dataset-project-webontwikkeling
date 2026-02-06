@@ -6,7 +6,7 @@
     "age": 58,
     "active": true,
     "birthDate": "1965-07-31",
-    "image": "https://example.com/images/rowling.jpg",
+    "image": "https://raw.githubusercontent.com/Jens-school/dataset-project-webontwikkeling/refs/heads/main/images/J.K._Rowling.jpg",
     "nationality": "British",
     "genres": ["Fantasy", "Drama"],
     "social": {
@@ -23,7 +23,7 @@
     "age": 46,
     "active": false,
     "birthDate": "1903-06-25",
-    "image": "https://example.com/images/orwell.jpg",
+    "image": "https://raw.githubusercontent.com/Jens-school/dataset-project-webontwikkeling/refs/heads/main/images/George_Orwell.jpg",
     "nationality": "British",
     "genres": ["Dystopian", "Political Fiction"],
     "social": {
@@ -40,7 +40,7 @@
     "age": 81,
     "active": false,
     "birthDate": "1892-01-03",
-    "image": "https://example.com/images/tolkien.jpg",
+    "image": "https://raw.githubusercontent.com/Jens-school/dataset-project-webontwikkeling/refs/heads/main/images/J.R.R._Tolkien.webp",
     "nationality": "British",
     "genres": ["Fantasy", "Adventure"],
     "social": {
@@ -57,7 +57,7 @@
     "age": 85,
     "active": false,
     "birthDate": "1890-09-15",
-    "image": "https://example.com/images/christie.jpg",
+    "image": "https://raw.githubusercontent.com/Jens-school/dataset-project-webontwikkeling/refs/heads/main/images/Agatha_Christie.webp",
     "nationality": "British",
     "genres": ["Mystery", "Crime"],
     "social": {
@@ -74,7 +74,7 @@
     "age": 76,
     "active": true,
     "birthDate": "1947-09-21",
-    "image": "https://example.com/images/stephenking.jpg",
+    "image": "https://raw.githubusercontent.com/Jens-school/dataset-project-webontwikkeling/refs/heads/main/images/Stephen_King.jpg",
     "nationality": "American",
     "genres": ["Horror", "Thriller"],
     "social": {
@@ -85,3 +85,4 @@
     }
   }
 ]
+
