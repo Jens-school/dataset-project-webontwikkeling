@@ -1,0 +1,172 @@
+[
+  {
+    "id": 1,
+    "title": "Harry Potter and the Philosopher's Stone",
+    "description": "Een jonge jongen ontdekt dat hij een tovenaar is.",
+    "pages": 223,
+    "available": true,
+    "publicationDate": "1997-06-26",
+    "image": "https://example.com/images/hp1.jpg",
+    "genre": "Fantasy",
+    "tags": ["Magic", "School", "Adventure"],
+    "authorId": 1,
+    "author": {
+      "id": 1,
+      "name": "J.K. Rowling",
+      "nationality": "British"
+    }
+  },
+  {
+    "id": 2,
+    "title": "1984",
+    "description": "Dystopische samenleving onder strikte controle.",
+    "pages": 328,
+    "available": true,
+    "publicationDate": "1949-06-08",
+    "image": "https://example.com/images/1984.jpg",
+    "genre": "Dystopian",
+    "tags": ["Politics", "Future", "Control"],
+    "authorId": 2,
+    "author": {
+      "id": 2,
+      "name": "George Orwell",
+      "nationality": "British"
+    }
+  },
+  {
+    "id": 3,
+    "title": "Animal Farm",
+    "description": "Dieren nemen een boerderij over.",
+    "pages": 112,
+    "available": true,
+    "publicationDate": "1945-08-17",
+    "image": "https://example.com/images/animalfarm.jpg",
+    "genre": "Political Fiction",
+    "tags": ["Satire", "Power", "Rebellion"],
+    "authorId": 2,
+    "author": {
+      "id": 2,
+      "name": "George Orwell",
+      "nationality": "British"
+    }
+  },
+  {
+    "id": 4,
+    "title": "The Hobbit",
+    "description": "Avontuur van Bilbo Baggins.",
+    "pages": 310,
+    "available": true,
+    "publicationDate": "1937-09-21",
+    "image": "https://example.com/images/hobbit.jpg",
+    "genre": "Fantasy",
+    "tags": ["Quest", "Dragons", "Friendship"],
+    "authorId": 3,
+    "author": {
+      "id": 3,
+      "name": "J.R.R. Tolkien",
+      "nationality": "British"
+    }
+  },
+  {
+    "id": 5,
+    "title": "The Lord of the Rings",
+    "description": "Epische strijd om een machtige ring.",
+    "pages": 1178,
+    "available": false,
+    "publicationDate": "1954-07-29",
+    "image": "https://example.com/images/lotr.jpg",
+    "genre": "Fantasy",
+    "tags": ["Epic", "Middle-earth", "War"],
+    "authorId": 3,
+    "author": {
+      "id": 3,
+      "name": "J.R.R. Tolkien",
+      "nationality": "British"
+    }
+  },
+  {
+    "id": 6,
+    "title": "Murder on the Orient Express",
+    "description": "Detective onderzoekt moord op trein.",
+    "pages": 256,
+    "available": true,
+    "publicationDate": "1934-01-01",
+    "image": "https://example.com/images/orientexpress.jpg",
+    "genre": "Mystery",
+    "tags": ["Detective", "Crime", "Train"],
+    "authorId": 4,
+    "author": {
+      "id": 4,
+      "name": "Agatha Christie",
+      "nationality": "British"
+    }
+  },
+  {
+    "id": 7,
+    "title": "And Then There Were None",
+    "description": "Tien mensen sterven één voor één.",
+    "pages": 272,
+    "available": true,
+    "publicationDate": "1939-11-06",
+    "image": "https://example.com/images/noneremain.jpg",
+    "genre": "Mystery",
+    "tags": ["Suspense", "Island", "Murder"],
+    "authorId": 4,
+    "author": {
+      "id": 4,
+      "name": "Agatha Christie",
+      "nationality": "British"
+    }
+  },
+  {
+    "id": 8,
+    "title": "The Shining",
+    "description": "Hotel met duister verleden.",
+    "pages": 447,
+    "available": true,
+    "publicationDate": "1977-01-28",
+    "image": "https://example.com/images/shining.jpg",
+    "genre": "Horror",
+    "tags": ["Hotel", "Madness", "Ghosts"],
+    "authorId": 5,
+    "author": {
+      "id": 5,
+      "name": "Stephen King",
+      "nationality": "American"
+    }
+  },
+  {
+    "id": 9,
+    "title": "It",
+    "description": "Kwaadaardig wezen terroriseert stad.",
+    "pages": 1138,
+    "available": false,
+    "publicationDate": "1986-09-15",
+    "image": "https://example.com/images/it.jpg",
+    "genre": "Horror",
+    "tags": ["Clown", "Fear", "Childhood"],
+    "authorId": 5,
+    "author": {
+      "id": 5,
+      "name": "Stephen King",
+      "nationality": "American"
+    }
+  },
+  {
+    "id": 10,
+    "title": "Harry Potter and the Chamber of Secrets",
+    "description": "Tweede jaar op Zweinstein.",
+    "pages": 251,
+    "available": true,
+    "publicationDate": "1998-07-02",
+    "image": "https://example.com/images/hp2.jpg",
+    "genre": "Fantasy",
+    "tags": ["Magic", "Mystery", "School"],
+    "authorId": 1,
+    "author": {
+      "id": 1,
+      "name": "J.K. Rowling",
+      "nationality": "British"
+    }
+  }
+]
